@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: Bruno Hott - UFOP
+description: Site pessoal
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
